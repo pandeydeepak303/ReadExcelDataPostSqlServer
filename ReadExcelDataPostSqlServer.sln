@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadExcelDataPostSqlServer", "ReadExcelDataPostSqlServer\ReadExcelDataPostSqlServer.csproj", "{701E9C42-779C-44B5-94C2-9A614053343C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701E9C42-779C-44B5-94C2-9A614053343C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701E9C42-779C-44B5-94C2-9A614053343C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701E9C42-779C-44B5-94C2-9A614053343C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701E9C42-779C-44B5-94C2-9A614053343C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CFE6A1-3D20-4B20-AE6C-D9167A7D789E}
+	EndGlobalSection
+EndGlobal
